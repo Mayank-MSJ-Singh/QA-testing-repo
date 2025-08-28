@@ -1,1 +1,1 @@
-W0NJXShodHRwczovL2dpdGh1Yi5jb20vTWF5YW5rLU1TSi1TaW5naC9RQS10ZXN0aW5nLXJlcG8vYWN0aW9ucy93b3JrZmxvd3MvY2kueW1sL2JhZGdlLnN2Zz9icmFuY2g9bWFpbilbIVtBcl0oaHR0cHM6Ly9naXRodWIuY29tL01heWFuay1NU0otU2luZ2gvUUEtdGVzdGluZy1yZXBvL2FjdGlvbnMvd29ya2Zsb3dzL2NpLnltbCkiCiMgUUEtdGVzdGluZy1yZXBv
+[![CI](https://github.com/Mayank-MSJ-Singh/QA-testing-repo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Mayank-MSJ-Singh/QA-testing-repo/actions/workflows/ci.yml)
